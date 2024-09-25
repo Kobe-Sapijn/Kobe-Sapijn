@@ -24,11 +24,11 @@
 <br />
 <br />
 
-🎯 Current Project:
+### 🎯 Current Project:
 - Portfolio
 <!-- It's quiet.....
 -->
-Stats:
+### Stats:
 <details>
   <summary>⚡ GitHub Stats</summary>
 
