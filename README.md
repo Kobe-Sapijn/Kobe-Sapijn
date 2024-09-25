@@ -1,7 +1,7 @@
 # Hi, I'm Kobe
 ## I'm an Applied Computer Science student
 - 20 years old
-- Devloper
+- Developer
 - Sometimes I do sports, sometimes I don't
 
 ### My Current Skills:
