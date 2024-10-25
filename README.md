@@ -5,7 +5,6 @@
 - Sometimes I do sports, sometimes I don't
 
 <br />
-<br />
 
 ### 🎯 Current Project:
 - Portfolio
