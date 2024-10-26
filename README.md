@@ -8,6 +8,7 @@
 
 ### 🎯 Current Project:
 - Portfolio
+- Learning Python
 - IOS - app
 <!-- It's quiet.....
 -->
