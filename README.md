@@ -8,6 +8,7 @@
 
 ### 🎯 Current Project:
 - Portfolio
+- IOS - app
 <!-- It's quiet.....
 -->
 ### Stats:
