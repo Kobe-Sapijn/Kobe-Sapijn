@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kobe</h1>
-<h3 align="center">A Passionate Software Developer from Belgium 🇧🇪</h3>
+<h3 align="center">A Passionate Software Engineer from Belgium 🇧🇪</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kobe-sapijn&label=Profile%20views&color=53d5fd&style=flat" alt="kobe-sapijn" /> </p>
 
