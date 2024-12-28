@@ -56,33 +56,16 @@
 <div align="left">
 <!--   WEB -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Node.js-%235FA04E?style=for-the-badge&logo=nodedotjs&logoColor=white">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-  <img width="12" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Express-%23000000?style=for-the-badge&logo=express&logoColor=white">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" height="40" alt="express logo" />
-  <img width="12" /> -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Koa-%2333333D?style=for-the-badge&logo=koa">
   <img alt="Static Badge" src="https://img.shields.io/badge/Prisma-%232D3748?style=for-the-badge&logo=prisma&logoColor=white">
-  <!-- <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/prisma/prisma-original.svg" height="40" alt="prisma logo" />
-  <img width="12" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/React-%2361DAFB?style=for-the-badge&logo=react&logoColor=black">
-  <!-- img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/MaterialUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=white">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-  <img width="12" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=threedotjs&logoColor=white">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" /> -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <!-- Mobile -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white">
-<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" /> -->
-  
-  
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white">  
 <!--   Testing -->
   <img alt="Static Badge" src="https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white">
