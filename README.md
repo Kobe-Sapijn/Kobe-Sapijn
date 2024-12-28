@@ -87,9 +87,7 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white">
   <img alt="Static Badge" src="https://img.shields.io/badge/Mockito-%2382A14D?style=for-the-badge&logoColor=white">
-
-  
-  <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Jest-%23C21325?style=for-the-badge&logo=jest">
 
 
 </div>
@@ -135,6 +133,8 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg" />
   <img width="12" />
 <!--   Database IDEs -->
   <!-- Azure Data Studio & MySQL workbench -->
