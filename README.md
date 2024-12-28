@@ -70,20 +70,24 @@
   <img alt="Static Badge" src="https://img.shields.io/badge/MaterialUI-%23007FFF?style=for-the-badge&logo=mui&logoColor=white">
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Three.js-%23000000?style=for-the-badge&logo=threedotjs&logoColor=white">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
+  <img width="12" /> -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring-%236DB33F?style=for-the-badge&logo=spring&logoColor=white">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
+  <img width="12" /> -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Spring%20Boot-%236DB33F?style=for-the-badge&logo=springboot&logoColor=white">
 <!-- Mobile -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
-  <img width="12" />
+  <img alt="Static Badge" src="https://img.shields.io/badge/Flutter-%2302569B?style=for-the-badge&logo=flutter&logoColor=white">
+<!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
+  <img width="12" /> -->
   
-  <img width="12" />
   
 <!--   Testing -->
-  <!--   Cypress -->
-  <!--   JUnit -->
-  <!--   Mockito -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/Cypress-%2369D3A7?style=for-the-badge&logo=cypress&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/JUnit5-%2325A162?style=for-the-badge&logo=junit5&logoColor=white">
+  <img alt="Static Badge" src="https://img.shields.io/badge/Mockito-%2382A14D?style=for-the-badge&logoColor=white">
+
   
   <img width="12" />
 
