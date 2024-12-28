@@ -31,7 +31,7 @@
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" height="40" alt="flutter logo"  />
   <img width="12" /> -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
@@ -130,9 +130,6 @@
 </div>
 <h3 align="left">Technologies:</h3><!-- https://shields.io/badges -->
 <div align="left">
-<!--   Docker -->
-  
-  <img width="12" />
 <!--   Kubernetis -->
   
   <img width="12" />
@@ -163,7 +160,7 @@
 <!--   PrismaORM -->
   
   <img width="12" />
-<!--   Spring -->
+<!--   SSH -->
   
   <img width="12" />
 
@@ -178,18 +175,21 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" height="40" alt="yarn logo" />
   <img width="12" />
 <!--   MAC/Apple -->
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apple/apple-original.svg" height="40" alt="apple logo" />        
   <img width="12" />
 <!--   Windows -->
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" height="40" alt="windows logo" />
   <img width="12" />
-<!--   SHH/Linux -->
-  
+<!--   Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" height="40" alt="linux logo" />
   <img width="12" />
 <!--   GIT -->
-  
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" alt="git logo"  />
   <img width="12" />
 <!--   gitkraken -->
+  
+  <img width="12" />
+<!--   Docker -->
   
   <img width="12" />
 <!--   XCode -->
