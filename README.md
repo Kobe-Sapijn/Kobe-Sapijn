@@ -20,7 +20,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" height="40" alt="canva logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  
   <img width="12" />
 <!--   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
   <img width="12" /> -->
@@ -35,13 +35,13 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="40" alt="intellij logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="40" alt="jira logo"  />
   <img width="12" />
@@ -71,7 +71,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
   <img width="12" />
@@ -81,7 +81,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ssh/ssh-original.svg" height="40" alt="ssh logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/threejs/threejs-original.svg" height="40" alt="threejs logo"  />
   <img width="12" />
@@ -93,12 +93,115 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
-<!-- https://devicon.dev -->
-<h3 align="left">Languages:</h3>
-<h3 align="left">Technologies:</h3>
-  <img alt="Static Badge" src="https://img.shields.io/badge/yarn-black?style=flat&logo=yarn&logoColor=2c8ebb&logoSize=auto">
-<h3 align="left">Tools:</h3>
 
+<h3 align="left">Languages:</h3><!-- https://devicon.dev -->
+<!--   HTML5 -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+<!--   CSS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+  <img width="12" />
+<!--   JS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+<!--   TS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
+  <img width="12" />
+<!--   Java -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
+  <img width="12" />
+<!--   Swift -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/swift/swift-original.svg" height="40" alt="swift logo"  />
+  <img width="12" />
+<!--   Python -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+<!--   C# -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" />        
+  <img width="12" />
+<!--   MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" />
+  <img width="12" />
+<!--   MicrisoftSQLServer -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/microsoftsqlserver/microsoftsqlserver-original.svg" />
+  <img width="12" />
+<!--   PostgreSQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" />        
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
+  <img width="12" />
+  
+<h3 align="left">Technologies:</h3><!-- https://shields.io/badges -->
+<!--   YARN -->
+  <img alt="Static Badge" src="https://img.shields.io/badge/yarn-black?style=flat&logo=yarn&logoColor=2c8ebb&logoSize=auto">
+  <img width="12" />
+<!--   NPM -->
+  
+  <img width="12" />
+<!--   Docker -->
+  
+  <img width="12" />
+<!--   Kubernetis -->
+  
+  <img width="12" />
+<!--   NodeJS -->
+  
+  <img width="12" />
+<!--   React -->
+  
+  <img width="12" />
+<!--   Redis -->
+  
+  <img width="12" />
+<!--   Spring -->
+  
+  <img width="12" />
+<!--   Cypress -->
+  
+  <img width="12" />
+<!--   JUnit -->
+  
+  <img width="12" />
+<!--   Mockito -->
+  
+  <img width="12" />
+<!--   ThreeJS -->
+  
+  <img width="12" />
+<!--   Spring -->
+  
+  <img width="12" />
+<!--   Spring -->
+  
+  <img width="12" />
+
+
+
+<h3 align="left">Tools:</h3>
+<!--   MAC/Apple -->
+  
+  <img width="12" />
+<!--   Windows -->
+  
+  <img width="12" />
+<!--   SHH/Linux -->
+  
+  <img width="12" />
+<!--   GIT -->
+  
+  <img width="12" />
+<!--   XCode -->
+  
+  <img width="12" />
+<!--   VSCode -->
+  
+  <img width="12" />
+<!--   Azure Data Studio -->
+  
+  <img width="12" />
+  
 <!--  Als in alle IDEs enzo also mac windows -->
 
 
