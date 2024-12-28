@@ -189,6 +189,9 @@
 <!--   GIT -->
   
   <img width="12" />
+<!--   gitkraken -->
+  
+  <img width="12" />
 <!--   XCode -->
   
   <img width="12" />
