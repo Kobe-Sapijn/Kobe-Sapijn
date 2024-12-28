@@ -89,14 +89,17 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg" height="40" alt="wordpress logo"  />
   <img width="12" />
-<img alt="Static Badge" src="https://img.shields.io/badge/yarn-black?style=flat&logo=yarn&logoColor=2c8ebb&logoSize=auto">
+
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xcode/xcode-original.svg" height="40" alt="xcode logo"  />
 </div>
 <!-- https://devicon.dev -->
-<!-- <h3 align="left">Technologies:</h3>
-<h3 align="left">Tools:</h3> -->
+<h3 align="left">Languages:</h3>
+<h3 align="left">Technologies:</h3>
+  <img alt="Static Badge" src="https://img.shields.io/badge/yarn-black?style=flat&logo=yarn&logoColor=2c8ebb&logoSize=auto">
+<h3 align="left">Tools:</h3>
 
+<!--  Als in alle IDEs enzo also mac windows -->
 
 
 <!-- <h3 align="left">Support:</h3>
