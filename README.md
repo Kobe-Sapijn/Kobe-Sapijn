@@ -130,12 +130,6 @@
 </div>
 <h3 align="left">Technologies:</h3><!-- https://shields.io/badges -->
 <div align="left">
-<!--   YARN -->
-  <img alt="Static Badge" src="https://img.shields.io/badge/yarn-black?style=flat&logo=yarn&logoColor=2c8ebb&logoSize=auto">
-  <img width="12" />
-<!--   NPM -->
-  
-  <img width="12" />
 <!--   Docker -->
   
   <img width="12" />
@@ -179,6 +173,9 @@
 <div align="left">
 <!--   NPM -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/npm/npm-original-wordmark.svg" height="40" alt="npm logo"  />
+  <img width="12" />
+<!--   YARN -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/yarn/yarn-original.svg" />
   <img width="12" />
 <!--   MAC/Apple -->
   
