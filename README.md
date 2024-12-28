@@ -95,6 +95,7 @@
 </div>
 
 <h3 align="left">Languages:</h3><!-- https://devicon.dev -->
+<div align="left">
 <!--   HTML5 -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
   <img width="12" />
@@ -132,8 +133,9 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original-wordmark.svg" />
   <img width="12" />
-  
+</div>
 <h3 align="left">Technologies:</h3><!-- https://shields.io/badges -->
+<div align="left">
 <!--   YARN -->
   <img alt="Static Badge" src="https://img.shields.io/badge/yarn-black?style=flat&logo=yarn&logoColor=2c8ebb&logoSize=auto">
   <img width="12" />
@@ -178,8 +180,9 @@
   <img width="12" />
 
 
-
+</div>
 <h3 align="left">Tools:</h3>
+<div align="left">
 <!--   MAC/Apple -->
   
   <img width="12" />
@@ -203,7 +206,7 @@
   <img width="12" />
   
 <!--  Als in alle IDEs enzo also mac windows -->
-
+</div>
 
 <!-- <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/abcdefg"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="abcdefg" /></a></p><br><br> -->
