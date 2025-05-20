@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Discord.py**
 
-- 👨‍💻 All of my projects are available at [www.kobesapijn.be](www.kobesapijn.be)
+- 👨‍💻 All of my projects are available at [www.kobesapijn.dev](www.kobesapijn.dev)
 
 - 📫 How to reach me **hello@kobesapijn.be**
 
